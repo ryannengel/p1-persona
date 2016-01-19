@@ -1,0 +1,16 @@
+div {
+  width: 50%;
+  margin: 0 auto;
+}
+
+img{
+  width: 100%;
+  padding: .7em;
+  border-radius: 10%;
+  border: double 9px royalblue
+}
+
+body {
+  background-image: url(../img/brickwall.png);
+  background-image: url(../img/tree_bark.png);
+}
